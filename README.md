@@ -28,17 +28,20 @@ I am  Information Security Technology student. I am currently at the beginning o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyjtpy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<!--
+<### 🛠️ Tech Stack & Tools
+
+<!-- Network & Virtualization -->
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+<!-- Operating Systems & Development -->
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CDA?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
+
+<!-- Security & Learning Platforms -->
+![TryHackMe](https://img.shields.io/badge/TryHackMe-222222?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+
+<!-- Version Control & Hosting -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)!--
 **kyjtpy/kyjtpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
