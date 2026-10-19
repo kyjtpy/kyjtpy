@@ -44,4 +44,4 @@ I am  Information Security Technology student. I am currently at the beginning o
 
 <!-- Version Control & Hosting -->
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)!--
-**kyjtpy/kyjtpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
