@@ -33,6 +33,5 @@ I am Information Security Technology student. I am currently at the beginning of
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kytjpy/kytjpy/output/github-metrics.svg" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kytjpy&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kytjpy&layout=compact&theme=radical&hide_border=true)
