@@ -34,9 +34,5 @@ I am Information Security Technology student. I am currently at the beginning of
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kytjpy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kytjpy's Github Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kytjpy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/kytjpy/kytjpy/output/github-metrics.svg" />
 </p>
